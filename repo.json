@@ -1,7 +1,7 @@
 {
     "name": "AppBox",
     "identifier": "click.appbox",
-    "sourceURL": "https://hello.appbox.click/repo",
+    "sourceURL": "https://appbox.click/repo",
     "apps": [
         {
             "name": "Spotify Tweaked",
