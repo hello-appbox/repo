@@ -5,14 +5,28 @@
     "apps": [
         {
             "name": "Spotify Tweaked",
-            "bundleIdentifier": "click.appbox",
-            "developerName": "appbox",
-            "version": "0.1",
+            "bundleIdentifier": "unknown",
+            "developerName": "",
+            "version": "0",
             "versionDate": "",
-            "versionDescription": "unknown",
+            "versionDescription": "",
             "downloadURL": "https://github.com/hello-appbox/files/releases/download/v0.2-files/spotify_tweaked.ipa",
-            "localizedDescription": "unknown",
+            "localizedDescription": "",
             "iconURL": "https://hello.appbox.click/assets/images/gallery01/d30ef060.jpg",
+            "tintColor": "018084",
+            "isLanZouCloud": 0,
+            "size": 7206362
+        },
+        {
+            "name": "Enmity",
+            "bundleIdentifier": "unknown",
+            "developerName": "",
+            "version": "0",
+            "versionDate": "",
+            "versionDescription": "",
+            "downloadURL": "https://github.com/hello-appbox/files/releases/download/v0.1-files/Enmity.ipa",
+            "localizedDescription": "",
+            "iconURL": "https://hello.appbox.click/assets/images/gallery01/684d80d2.jpg",
             "tintColor": "018084",
             "isLanZouCloud": 0,
             "size": 7206362
