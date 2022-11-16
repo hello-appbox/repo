@@ -1,0 +1,12 @@
+{
+	"META": {
+		"repoName": "AppBox",
+		"repoIcon": "https://github.com/hello-appbox/files/blob/main/repologo.png?raw=true"
+	},
+	"Applications": [{
+		"name": "Spotify Tweaked",
+		"version": "0",
+		"down": "https://github.com/hello-appbox/files/releases/download/v0.2-files/spotify_tweaked.ipa",
+		"category": "Applications",
+	}]
+}
