@@ -4,6 +4,48 @@
     "sourceURL": "https://appbox.click/repo",
     "apps": [
         {
+            "name": "9ani",
+            "bundleIdentifier": "unknown",
+            "developerName": "",
+            "version": "0",
+            "versionDate": "",
+            "versionDescription": "",
+            "downloadURL": "https://github.com/hello-appbox/files/releases/download/v0.2-files/9ani.ipa",
+            "localizedDescription": "",
+            "iconURL": "https://github.com/hello-appbox/repo/blob/main/placeholdericon.jpg?raw=true",
+            "tintColor": "018084",
+            "isLanZouCloud": 0,
+            "size": 7206362
+        },
+        {
+            "name": "AdGuard Pro",
+            "bundleIdentifier": "unknown",
+            "developerName": "",
+            "version": "0",
+            "versionDate": "",
+            "versionDescription": "",
+            "downloadURL": "https://github.com/hello-appbox/files/releases/download/v0.2-files/adguardpro.ipa",
+            "localizedDescription": "",
+            "iconURL": "https://github.com/hello-appbox/repo/blob/main/placeholdericon.jpg?raw=true",
+            "tintColor": "018084",
+            "isLanZouCloud": 0,
+            "size": 7206362
+        },
+        {
+            "name": "BHTwitter",
+            "bundleIdentifier": "unknown",
+            "developerName": "",
+            "version": "0",
+            "versionDate": "",
+            "versionDescription": "",
+            "downloadURL": "https://github.com/hello-appbox/files/releases/download/v0.2-files/bhtwitter.ipa",
+            "localizedDescription": "",
+            "iconURL": "https://github.com/hello-appbox/repo/blob/main/placeholdericon.jpg?raw=true",
+            "tintColor": "018084",
+            "isLanZouCloud": 0,
+            "size": 7206362
+        },
+        {
             "name": "Spotify Tweaked",
             "bundleIdentifier": "unknown",
             "developerName": "",
