@@ -46,6 +46,48 @@
             "size": 1
         },
         {
+            "name": "BlurPhoto",
+            "bundleIdentifier": "unknown",
+            "developerName": "",
+            "version": "0",
+            "versionDate": "",
+            "versionDescription": "",
+            "downloadURL": "https://github.com/hello-appbox/files/releases/download/v0.2-files/blurphoto.ipa",
+            "localizedDescription": "",
+            "iconURL": "https://github.com/hello-appbox/repo/blob/main/placeholdericon.jpg?raw=true",
+            "tintColor": "018084",
+            "isLanZouCloud": 0,
+            "size": 1
+        },
+        {
+            "name": "Brightly",
+            "bundleIdentifier": "unknown",
+            "developerName": "",
+            "version": "0",
+            "versionDate": "",
+            "versionDescription": "",
+            "downloadURL": "https://github.com/hello-appbox/files/releases/download/v0.2-files/brightly.ipa",
+            "localizedDescription": "",
+            "iconURL": "https://github.com/hello-appbox/repo/blob/main/placeholdericon.jpg?raw=true",
+            "tintColor": "018084",
+            "isLanZouCloud": 0,
+            "size": 1
+        },
+        {
+            "name": "Canary Mail",
+            "bundleIdentifier": "unknown",
+            "developerName": "",
+            "version": "0",
+            "versionDate": "",
+            "versionDescription": "",
+            "downloadURL": "https://github.com/hello-appbox/files/releases/download/v0.2-files/canary_3.55.ipa",
+            "localizedDescription": "",
+            "iconURL": "https://github.com/hello-appbox/repo/blob/main/placeholdericon.jpg?raw=true",
+            "tintColor": "018084",
+            "isLanZouCloud": 0,
+            "size": 1
+        },
+        {
             "name": "Spotify Tweaked",
             "bundleIdentifier": "unknown",
             "developerName": "",
