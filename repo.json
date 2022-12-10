@@ -410,6 +410,48 @@
             "size": 1
         },
         {
+            "name": "Procreate",
+            "bundleIdentifier": "unknown",
+            "developerName": "",
+            "version": "0",
+            "versionDate": "",
+            "versionDescription": "",
+            "downloadURL": "https://github.com/hello-appbox/files/releases/download/v0.2-files/procreate.ipa",
+            "localizedDescription": "",
+            "iconURL": "https://github.com/hello-appbox/repo/blob/main/placeholdericon.jpg?raw=true",
+            "tintColor": "018084",
+            "isLanZouCloud": 0,
+            "size": 1
+        },
+        {
+            "name": "Procreate Pocket",
+            "bundleIdentifier": "unknown",
+            "developerName": "",
+            "version": "0",
+            "versionDate": "",
+            "versionDescription": "",
+            "downloadURL": "https://github.com/hello-appbox/files/releases/download/v0.2-files/procreate_pocket.ipa",
+            "localizedDescription": "",
+            "iconURL": "https://github.com/hello-appbox/repo/blob/main/placeholdericon.jpg?raw=true",
+            "tintColor": "018084",
+            "isLanZouCloud": 0,
+            "size": 1
+        },
+        {
+            "name": "Photoshop Express Premium",
+            "bundleIdentifier": "unknown",
+            "developerName": "",
+            "version": "0",
+            "versionDate": "",
+            "versionDescription": "",
+            "downloadURL": "https://github.com/hello-appbox/files/releases/download/v0.2-files/psexpress_premium.ipa",
+            "localizedDescription": "",
+            "iconURL": "https://github.com/hello-appbox/repo/blob/main/placeholdericon.jpg?raw=true",
+            "tintColor": "018084",
+            "isLanZouCloud": 0,
+            "size": 1
+        },
+        {
             "name": "Spotify Tweaked",
             "bundleIdentifier": "unknown",
             "developerName": "",
